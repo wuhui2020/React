@@ -1,0 +1,11 @@
+.ullist{
+    list-style: none
+  }
+  .ullist > li{
+    width:60px;
+    float:left;
+    border:1px solid #ccc;
+    text-align: center;
+    cursor: pointer
+  }
+  
